@@ -76,7 +76,7 @@ npm start
 
 #### Landing Page
 
-!
+![Screenshot 2023-03-21 094304](https://user-images.githubusercontent.com/76715464/226516378-478a94ef-b842-4505-bdef-01c1fc4d1af0.png)
 
 #### Add a new candidate
 
