@@ -2,6 +2,9 @@
 
 This is a decentralized blockchain-based voting system built on Ethereum smart contracts. The system uses web3.js for verifying the KYC of the user using face matching. All the photos and documents are stored on IPFS, and Twilio is used to send confirmation messages.
 
+## Problem Statement
+Each Government(State or Central) has to invest a lot of money to conduct the votes all over the region. Still we are not able to fix the fraudulence and security issues. In the recent times there have been multiple cases of vote tampering with EVM. The problem that our system "Apna Chunaav" solves is voter fraud. By encrypting and storing each vote as a transaction on the blockchain, it becomes impossible to tamper or duplicate votes. Another problem that it can solve is voter accessibility. By allowing the voters to cast their votes online using their credentials, it eliminates the need for physical polling stations and reduces costs and efforts. It also enables for transparent fund raise among political parties. As a result of our Hackathon Problem Statement:- Financial Fraud Detection, we are able to implement  the procedure to make secure transaction and transperent voting conductions with face recognition based 'KYC Verification' through the aspect of decentralization and blockchain.
+
 ## Overview of the App
 
 - The app is a secure and transparent way of conducting elections.
