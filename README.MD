@@ -2,6 +2,15 @@
 
 This is a decentralized blockchain-based voting system built on Ethereum smart contracts. The system uses web3.js for verifying the KYC of the user using face matching. All the photos and documents are stored on IPFS, and Twilio is used to send confirmation messages.
 
+## Team Leader's LinkedIn Profile
+https://www.linkedin.com/in/shubham-kumar-singh-356427206/
+
+## Team Members
+Shubham Kumar Singh
+Aayush Kumar Singh
+Ujjwal Kumar
+Soumyo Nath Tripathy
+
 ## Overview of the App
 
 - The app is a secure and transparent way of conducting elections.
