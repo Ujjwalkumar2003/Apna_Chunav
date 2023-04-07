@@ -11,6 +11,9 @@ Aayush Kumar Singh
 Ujjwal Kumar
 Soumyo Nath Tripathy
 
+## Deployed Project Website Link
+https://apna-chunav-eight.vercel.app/
+
 ## Overview of the App
 
 - The app is a secure and transparent way of conducting elections.
